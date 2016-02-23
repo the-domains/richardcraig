@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3828321
+color:
+  saturation: 0.6320401
+  lightness: 0.409579
+  brandStrength: 0.2131054
+  rhythmicContrast: 0.7336909
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Richardacraig
